@@ -5,7 +5,7 @@ Stoll quote module
 """
 import random
 
-def stoll(phenny, input): 
+def stoll(phenny, input):
 	quotes = [
 	"Allerdings muss ich gleich sagen: Bei mir beginnt die Mathematik, Physik und auch Geologie dort, wo das Hochschulstudium aufhört.",
 	"Medizin ist Mathematik, Biologie ist Physik!",
@@ -18,7 +18,6 @@ def stoll(phenny, input):
 	"Im Prinzip brauchen wir nur drei Wissenschaften, um alles zu beschreiben: Physik. Mathematik. Philosophie.",
 	"Und die Russen sind ja Waffentechnisch den Amerikanern weit überlegen. MUSS MAN WISSEN!",
 	"...und das ist auch die Maschine, die entscheidend ist für Freie-Energie-Maschinen. Die muss man anzapfen entsprechend einem Implosions-Strudel. Das heißt, eine Logarithmische Spirale raum-zeitlich betrachtet nach INNEN.",
-	"...und das ist auch die Maschine, die entscheidend ist für Freie-Energie-Maschinen. Die muss man anzapfen entsprechend einem Implosions-Strudel. Das heißt, eine Logarithmische Spirale raum-zeitlich betrachtet nach INNENdrinrein.",
 	"Es gibt keine Zufälle, Das Wort 'Zufall' ist aus meinem Wortschatz gestrichen",
 	"96 Flugzeuge * 60 Minuten * 14 Stunden * 40 Passagiere ergibt: 3.225.600 Passagiere pro Tag. PRO TAG! Das ist kein Science Fiction.",
 	"Das hier ist nichts anderes als ein Strafplanet",
@@ -34,7 +33,7 @@ def stoll(phenny, input):
 	"Internet ist scheisse, da geh ich nicht rein"
 
 
-	] 
+	]
 
 	phenny.say(random.choice(quotes))
 
@@ -43,5 +42,5 @@ stoll.priority = 'low'
 
 
 
-if __name__ == '__main__': 
+if __name__ == '__main__':
    print __doc__.strip()
