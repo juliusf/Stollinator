@@ -1,0 +1,4 @@
+*.pyc
+.viminfo
+.bash_history
+.phenny/
