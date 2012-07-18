@@ -14,10 +14,10 @@ def stoll(phenny, input):
 	"Der menschliche Zellkern ist gleich pures Licht, sprich: schwarze Sonnen.",
 	"Wenn ein Mensch autogen sein Kraftfeld verstärkt, könnte er im Extremfall schweben. Also levitieren.",
 	"Die Sonne ist KALT, da staunt ihr, wa?",
-	"Wer weis das? ... Wieder keiner!",
+	"Wer weiß das? ... Wieder keiner!",
 	"Im Prinzip brauchen wir nur drei Wissenschaften, um alles zu beschreiben: Physik. Mathematik. Philosophie.",
 	"Und die Russen sind ja Waffentechnisch den Amerikanern weit überlegen. MUSS MAN WISSEN!",
-	"...und das ist auch die Maschine, die entscheidend ist für Freie-Energie-Maschinen. Die muss man anzapfen entsprechend einem Implosions-Strudel. Das heißt, eine Logarithmische Spirale raum-zeitlich betrachtet nach INNEN.",
+	"...und das ist auch die Maschine, die entscheidend ist für Freie-Energie-Maschinen. Die muss man anzapfen entsprechend einem Implosions-Strudel. Das heißt, eine logarithmische Spirale raum-zeitlich betrachtet nach INNEN.",
 	"Es gibt keine Zufälle, Das Wort 'Zufall' ist aus meinem Wortschatz gestrichen",
 	"96 Flugzeuge * 60 Minuten * 14 Stunden * 40 Passagiere ergibt: 3.225.600 Passagiere pro Tag. PRO TAG! Das ist kein Science Fiction.",
 	"Das hier ist nichts anderes als ein Strafplanet",
@@ -30,7 +30,7 @@ def stoll(phenny, input):
 	"Nikolai Tesla ist innerhalb von 5 Stunden mit deutschen Physikern zum Pluto geflogen um Gesteinsproben zu sammeln",
 	"Man sollte mal Mikrowellenstrahler gegen die Love Parade einsetzen",
 	"es existiert keine materie so wie diese beschrieben wird. es existiert nur bewegung oder geschwindigkeit oder schwingungen.",
-	"Internet ist scheisse, da geh ich nicht rein"
+	"Internet ist scheiße, da geh ich nicht rein",
 
 
 	]
