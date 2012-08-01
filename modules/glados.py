@@ -10,7 +10,7 @@ def fact_core(phenny, input):
   Fact Core Source from: https://en.wikiquote.org/wiki/Portal_2#Fact_Core
   """
 
-	quotes = [
+  quotes = [
     "The situation you are in is very dangerous.",
     "The likelihood of you dying within the next 5 seconds is 87.61%",
     "The likelihood of you dying violently within the next 5 seconds is 87.61%",
@@ -109,10 +109,10 @@ def fact_core(phenny, input):
     "At some point in their lives 1 in 6 children will be abducted by the Dutch.",
     "According to most advanced algorithms, the world's best name is Craig.",
     "To make a photocopier, simply photocopy a mirror.",
-    "Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out.",
+    "Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out."
 	]
 
-	phenny.say(random.choice(quotes))
+  phenny.say(random.choice(quotes))
 
 fact_core.commands = ['glados']
 fact_core.priority = 'low'
