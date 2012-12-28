@@ -48,7 +48,7 @@ def stoll(phenny, input):
     "Da unser Universum ein ewig existierendes Zirkulationssystem darstellt, findet der sogenannte Urknall jederzeit statt.",
     "Die Masse eines Körpers entspricht dem Gesamt-Volumen seiner Atomkerne, also dem Gesamt-Volumen seiner 'Mini-Schwarzen Löcher'.",
     "Sein spezifisches Gewicht ist das Verhältnis des Volumens seiner 'Mini-Schwarzen Löcher' zu seinem Gesamtvolumen bei einer bestimmten Temperatur und relativ zu Wasser.",
-    "Wie erwähnt, steckt in τ ein rechtsrotierender (zum jeweiligen imaginären Mittelpunkt zielender), spiralförmiger Kraftverlauf."
+    "Wie erwähnt, steckt in τ ein rechtsrotierender (zum jeweiligen imaginären Mittelpunkt zielender), spiralförmiger Kraftverlauf.",
     "Die kleinen τ-freien Räume (die Atomkerne) erscheinen uns allgemein nur dann als Licht, wenn ihre Atome entbunden werden bzw. sich zerlegen.",
     "Zu beachten ist, dass wir in einer virtuellen Scheinwelt leben. Das bedeutet, dass wir nur die entsprechende Dichte der Schwingungen (Frequenzen) als unterschiedliche Aggregatzustände wahrnehmen!",
     "Strom ist nichts weiter als ausgeschiedene bzw. überschüssige Geschwindigkeit.",
