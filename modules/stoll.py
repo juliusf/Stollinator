@@ -41,9 +41,9 @@ def stoll(phenny, input):
     "Tachyoneutrinos beinhalten den Terminus Tachyon(en) und Neutrino(s). Ersterer enthält die wichtige limitierende physikalische Größe Zeit und Geschwindigkeit (=Bewegung) und letzterer einen 'Schwingungs-Frequenz-Wirbelquant'!",
     "Ein Atom z.B. ähnelt nicht nur einer Sprungfeder, sondern es verfügt auch über ähnliche Eigenschaften, außer dass es mit hoher Geschwindigkeit rotiert.",
     "Dieses Gebilde kennen wir nur als sogenanntes 'Schwarzes Loch'! So, wie aber beispielsweise Luzifer nicht der Teufel, sondern der Lichtbringer ist (lux = das Licht), so ist 'unser' Jenseits-Raum (Τ-freier Raum) pures Licht!!",
-    "Eine große ΦM-Dichte führt der menschlichen Zelle soviel Energie zu, dass er nur langsam altert."
+    "Eine große ΦM-Dichte führt der menschlichen Zelle soviel Energie zu, dass er nur langsam altert.",
     "Wie im ... beschrieben, so ist die Zeit (T) physikalisch nichts weiter als universale Dichte in Korrelation mit der Raumbewegung.",
-    "Implosions- und Expansionsstrudel sind zwar miteinander korrelierend, verfügen aber über eine unterschiedliche energetische Struktur."
+    "Implosions- und Expansionsstrudel sind zwar miteinander korrelierend, verfügen aber über eine unterschiedliche energetische Struktur.",
     "Unser Universum ist das klassische 'Perpetuum Mobile' weil es aus sich selbst heruas existiert bzw. lebt.",
     "Da unser Universum ein ewig existierendes Zirkulationssystem darstellt, findet der sogenannte Urknall jederzeit statt.",
     "Die Masse eines Körpers entspricht dem Gesamt-Volumen seiner Atomkerne, also dem Gesamt-Volumen seiner 'Mini-Schwarzen Löcher'.",
