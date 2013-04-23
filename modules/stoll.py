@@ -33,7 +33,7 @@ def stoll(phenny, input):
 	"Internet ist scheiße, da geh ich nicht rein",
     "Es existiert keine Materie, so wie diese gesehen und beschrieben wird, denn wir leben in einer Welt der Schwingungen und Frequenzen, also korrelierender Wirbelmechanismen",
     "Im Prinzip kann man sogar soweit abstrahieren: 'Alles ist nur Bewegung, Geschwindigkeit oder Schwingungen'",
-    "Bindekräfte, welche die Materie zusammenhalten, sind Wirben bzw. Strudel, inklusive iher Ein- und Auswirbelungen",
+    "Bindekräfte, welche die Materie zusammenhalten, sind Wirbel bzw. Strudel, inklusive ihrer Ein- und Auswirbelungen",
     "Die Formel E = mc² ist in dieser Form falsch bzw. wird zumindest falsch verstanden!",
     "Die reinste aller Energieformen, das Licht, ist ein Element es Jenseitsraumes, auch wenn es in die materielle Welt hineinwirkt.",
     "Die Zeit ist gekommen, da die Menschheit darüber bescheid wissen muss, was einige Wenige -- aus niederen Beweggründen -- seit sehr langer Zeit verschweigen.",
